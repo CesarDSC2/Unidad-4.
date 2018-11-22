@@ -1,0 +1,7 @@
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\bin\Debug\E-4-3 Grafos.exe.config
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\bin\Debug\E-4-3 Grafos.exe
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\bin\Debug\E-4-3 Grafos.pdb
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\obj\Debug\E-4-3 Grafos.csprojResolveAssemblyReference.cache
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\obj\Debug\E-4-3 Grafos.csproj.CoreCompileInputs.cache
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\obj\Debug\E-4-3 Grafos.exe
+c:\users\cesar\source\repos\E-4-3 Grafos\E-4-3 Grafos\obj\Debug\E-4-3 Grafos.pdb
