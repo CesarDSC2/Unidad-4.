@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\bin\Debug\Examen_4_2.Santos_Chávez_Cesar_Daniel.exe.config
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\bin\Debug\Examen_4_2.Santos_Chávez_Cesar_Daniel.exe
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\bin\Debug\Examen_4_2.Santos_Chávez_Cesar_Daniel.pdb
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\obj\Debug\Examen 4-2. Santos Chávez Cesar Daniel.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\obj\Debug\Examen 4-2. Santos Chávez Cesar Daniel.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\obj\Debug\Examen_4_2.Santos_Chávez_Cesar_Daniel.exe
+C:\Users\dell\source\repos\Examen 4-2. Santos Chávez Cesar Daniel\Examen 4-2. Santos Chávez Cesar Daniel\obj\Debug\Examen_4_2.Santos_Chávez_Cesar_Daniel.pdb
